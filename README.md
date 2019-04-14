@@ -34,7 +34,9 @@ A resource with a variety of usefool tools in learning maths, coding and many mo
 
 ## Полезные материалы по комбинаторике:
 
-\waitng 4 babken\
+0. https://yadi.sk/i/e3EOOPaBM9aEZg - Основы комбинаторики, Виленкин
+1. https://yadi.sk/d/hDATv6qAioF8bQ - "Введение в комбинаторный анализ" Риордан
+2. https://yadi.sk/i/-SYwNeokeQF55g - "Конкретная математика" Грэхем, Кнут, Паташник
 
 ## Интересные статьи, необычные находки и другие преколы
 
