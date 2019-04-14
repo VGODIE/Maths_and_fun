@@ -40,3 +40,4 @@ A resource with a variety of usefool tools in learning maths, coding and many mo
 
 0. https://www.lektorium.tv/university/2932 - захватывающие курсы от Computer Science Center
 1. https://www.mccme.ru/ium/old_courses.html - различные курсы по высшей математике от МЦНМО
+2. https://www.lektorium.tv/course/22827 - тупо пройдитесь по основам математики с Александром Храбровым
