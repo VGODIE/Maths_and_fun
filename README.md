@@ -39,3 +39,4 @@ A resource with a variety of usefool tools in learning maths, coding and many mo
 ## Интересные статьи, необычные находки и другие преколы
 
 0. https://www.lektorium.tv/university/2932 - захватывающие курсы от Computer Science Center
+1. https://www.mccme.ru/ium/old_courses.html - различные курсы по высшей математике от МЦНМО
