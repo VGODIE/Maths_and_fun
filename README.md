@@ -14,6 +14,7 @@ A resource with a variety of usefool tools in learning maths, coding and many mo
 а по математике, в целом!
 4. https://yadi.sk/d/c21uDcgA8orwsQ - здесь теория от ПМИ ФКН вышки
 5. https://yadi.sk/d/0-Q7gSV2-aISEw - практические задания направления ПМИ ФКН вышки
+6. https://www.lem.ma/books/Ai_Km5W5WPfsPZqqV2XWGg/landing - интересные лекции друга G.Strange Павла Гринфилда из Drexel
 
 энд то би континьюд
 
@@ -28,7 +29,7 @@ A resource with a variety of usefool tools in learning maths, coding and many mo
 
 ## Полезные материалы по матану:
 
-\заполни меня бабкен\
+0. https://openedu.ru/course/mipt/MATAN/ - вводный курс по Математическому анализу от Саватеева
 
 
 ## Полезные материалы по комбинаторике:
@@ -36,3 +37,5 @@ A resource with a variety of usefool tools in learning maths, coding and many mo
 \waitng 4 babken\
 
 ## Интересные статьи, необычные находки и другие преколы
+
+0. https://www.lektorium.tv/university/2932 - захватывающие курсы от Computer Science Center
