@@ -29,7 +29,7 @@ A resource with a variety of usefool tools in learning maths, coding and many mo
 
 ## Полезные материалы по матану:
 
-\заполни меня бабкен\
+0. https://openedu.ru/course/mipt/MATAN/ - вводный курс по Математическому анализу от Саватеева
 
 
 ## Полезные материалы по комбинаторике:
@@ -37,3 +37,5 @@ A resource with a variety of usefool tools in learning maths, coding and many mo
 \waitng 4 babken\
 
 ## Интересные статьи, необычные находки и другие преколы
+
+0. https://www.lektorium.tv/university/2932 - захватывающие курсы от Computer Science Center
