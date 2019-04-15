@@ -30,6 +30,7 @@ A resource with a variety of usefool tools in learning maths, coding and many mo
 ## Полезные материалы по матану:
 
 0. https://openedu.ru/course/mipt/MATAN/ - вводный курс по Математическому анализу от Саватеева
+1. https://yadi.sk/i/Z2xPVo9e2i82Kw - классический задачник по матану Демидовича
 
 
 ## Полезные материалы по комбинаторике:
