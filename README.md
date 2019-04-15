@@ -39,6 +39,16 @@ A resource with a variety of usefool tools in learning maths, coding and many mo
 1. https://yadi.sk/d/hDATv6qAioF8bQ - "Введение в комбинаторный анализ" Риордан
 2. https://yadi.sk/i/-SYwNeokeQF55g - "Конкретная математика" Грэхем, Кнут, Паташник
 
+
+## Полезные материалы по программированию
+
+### С++
+0. https://www.learncpp.com/ - прекрасно расписанные базовые знания по C++(на англ)
+1. https://ravesli.com/uroki-cpp/ - предыдущий сайт, хорошо переведенный на русский язык
+
+### Python
+0. 
+
 ## Интересные статьи, необычные находки и другие преколы
 
 0. https://www.lektorium.tv/university/2932 - захватывающие курсы от Computer Science Center
