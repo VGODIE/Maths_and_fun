@@ -47,7 +47,7 @@ A resource with a variety of usefool tools in learning maths, coding and many mo
 1. https://ravesli.com/uroki-cpp/ - предыдущий сайт, хорошо переведенный на русский язык
 
 ### Python
-0. 
+0. https://www.coursera.org/learn/python-osnovy-programmirovaniya - Основы программирования на Python(курс от ВШЭ)
 
 ## Интересные статьи, необычные находки и другие преколы
 
