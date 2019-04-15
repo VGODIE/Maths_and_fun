@@ -4,8 +4,8 @@ A resource with a variety of usefool tools in learning maths, coding and many mo
 ## Полезные материалы по линейной алгебре:
 
 0. https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/ -  ссылка на лекции и курс в целом
-по линейной алгебре от MIT. 
-1. https://yadi.sk/i/EVEjZigIgW7zCA - учебник G.Strange - профессора из MIT . 
+по линейной алгебре от MIT.
+1. https://yadi.sk/i/EVEjZigIgW7zCA - учебник G.Strange - профессора из MIT .
 В нем есть как теория, так и практические задания для ее отработки
 2. https://yadi.sk/i/MJSKiJQDXxPYiQ - задачник "Challenging problems for students", который
 как следует из названия, содержит задачки посложнее для отважных рыцарей
@@ -20,12 +20,12 @@ A resource with a variety of usefool tools in learning maths, coding and many mo
 
 
 ## Полезные материалы по алгоритмам:
- 
+
  0. https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/ -
  курс по алгоритмам от MIT
  1. https://yadi.sk/i/AMK7TvASgpGWOQ - учебник, сопровождающий курс. Есть и теория, и практика
  2. https://yadi.sk/i/QZdUBHD5RcMiOQ - здесь использование алгоритмов для решения различных задач на питоне
- 
+
 
 ## Полезные материалы по матану:
 
@@ -47,10 +47,16 @@ A resource with a variety of usefool tools in learning maths, coding and many mo
 1. https://ravesli.com/uroki-cpp/ - предыдущий сайт, хорошо переведенный на русский язык
 
 ### Python
-0. https://www.coursera.org/learn/python-osnovy-programmirovaniya - Основы программирования на Python(курс от ВШЭ)
+0.
 
-### LaTex (скорее не язык программирования, а система компьютерной вёрстки)
-0. https://www.coursera.org/learn/latex - вводный курс от Даниила Федоровых
+### Machine learning
+
+0. http://wiki.cs.hse.ru/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_1 - ссылка на курс по машинному обучению (1) от ФКН вышки
+
+1. http://wiki.cs.hse.ru/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_2- вторая часть курса от ФКН
+2. https://yadi.sk/i/qGndSHNCs2GRtw - англоязычный учебник по машинному обучению (рекомендация от лектора из Яндекса)
+3. https://yadi.sk/i/ndYrCh44jXucbA - рассмотрены многие методы машинного обучения и не только (возможно именно этот учебник должен стоять на первом месте)
+4. https://yadi.sk/i/iDI3Pl42tV3c0g - здесь же рассмотрены подходы к работе с информацией
 
 ## Интересные статьи, необычные находки и другие преколы
 
